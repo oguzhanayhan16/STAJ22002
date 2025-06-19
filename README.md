@@ -7,14 +7,14 @@ This is a simple and functional **movie catalog website** built using **ASP.NET 
 - Browse a list of movies
 - View detailed information for each movie
 - Filter movies by category or release year
-- Responsive UI with Razor Pages or MVC (depending on implementation)
+- Responsive UI with  MVC (depending on implementation)
 - Clean project structure with separation of concerns
 - Lightweight and fast API/backend
 
 ## 🛠️ Technologies Used
 
-- **ASP.NET Core MVC** or **Razor Pages**
+- **ASP.NET Core MVC**
 - **Entity Framework Core**
-- **SQL Server** or **SQLite**
-- **Bootstrap** (or any frontend CSS framework)
+- **SQL Server**
+- **Bootstrap** 
 
